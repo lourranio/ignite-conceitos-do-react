@@ -12,3 +12,5 @@
 - [Javascript](https://www.javascript.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
